@@ -1,5 +1,5 @@
 # Netflix_Movies_And_Tv_Shows_Clustering
-                                                             #  Technical Documentation
+                                                               Technical Documentation
 
 ![smartphone_netflix_red_background_hd_netflix-1600x900](https://user-images.githubusercontent.com/90696788/232040265-173a8e6e-9092-4cf4-ad7a-661ae8c4a66f.jpg)
 
