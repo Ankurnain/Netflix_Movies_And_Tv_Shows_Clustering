@@ -18,43 +18,70 @@ Number of records: 7787
 2.Number of features: 12
 
 
-Objectives:
+#Objectives:
+
 Conduct Exploratory Data Analysis.
+
 Try understanding what type content is available in different countries.
 Check if Netflix is increasingly focusing on TV rather than movies in recent years.
 Clustering similar content by matching text-based features.
-Methods used:
+#Methods used:
+
 Descriptive Statistics.
+
 Data Visualization.
+
 Machine Learning.
-Libraries utilized:
+
+#Libraries utilized:
+
 NumPy and Pandas - For dataset cleaning and analysis.
+
 Matplotlib, Plotly and Seaborn - For Data Visualization.
+
 SkLearn and nltk - For machine learning and clustering.
 
 Features information:
+
 The dataset contains features like:
 
 show_id : Unique ID for every Movie / Tv Show
+
 type : A Movie or TV Show
+
 title : Title of the Movie / Tv Shows
+
 director : Director of the Movie
+
 cast : Actors involved in the movie / show
+
 country : Country where the movie / show was produced
+
 date_added : Date it was added on Netflix
+
 release_year : Actual Release year of the movie / show
+
 rating : TV Rating of the movie / show
+
 duration : Total Duration - in minutes or number of seasons
+
 listed_in : Generes
+
 description: The Summary description
 
 #Project Work flow:
 
 Importing Libraries
+
 Loading the dataset
+
 Data Summary
+
 Data Cleaning & Data Analysis
+
 Feature selection
+
 Implementing different clustering methods
+
 Conclusion
 
