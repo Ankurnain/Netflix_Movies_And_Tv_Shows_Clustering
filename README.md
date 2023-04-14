@@ -19,7 +19,7 @@ Number of records: 7787
 2.Number of features: 12
 
 
-#Objectives:
+Objectives:
 
 Conduct Exploratory Data Analysis.
 
@@ -35,7 +35,7 @@ Data Visualization.
 
 Machine Learning.
 
-#Libraries utilized:
+Libraries utilized:
 
 NumPy and Pandas - For dataset cleaning and analysis.
 
@@ -71,19 +71,21 @@ listed_in : Generes
 
 description: The Summary description
 
-Project Work flow:
 
-Importing Libraries
 
-Loading the dataset
+Project Work flow:-
 
-Data Summary
+1.Importing Libraries
 
-Data Cleaning & Data Analysis
+2.Loading the dataset
 
-Feature selection
+3.Data Summary
 
-Implementing different clustering methods
+4.Data Cleaning & Data Analysis
 
-Conclusion
+5.Feature selection
+
+6.Implementing different clustering methods
+
+7.Conclusion
 
