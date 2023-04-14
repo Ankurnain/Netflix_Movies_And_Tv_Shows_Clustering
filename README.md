@@ -47,21 +47,14 @@ rating : TV Rating of the movie / show
 duration : Total Duration - in minutes or number of seasons
 listed_in : Generes
 description: The Summary description
-Project Work flow
+
+#Project Work flow:
+
 Importing Libraries
 Loading the dataset
 Data Summary
 Data Cleaning & Data Analysis
 Feature selection
 Implementing different clustering methods
-Conclusion:
-Director and cast contains a large number of null values so we will drop these 2 columns .
-In this dataset there are two types of contents where 30.86% includes TV shows and the remaining 69.14% carries Movies.
-We have reached a conclusion from our analysis from the content added over years that Netflix is focusing movies and TV shows (Fom 2016 data we get to know that Movies is increased by 80% and TV shows is increased by 73% compare)
-From the dataset insights we can conclude that the most number of TV Shows released in 2017 and for Movies it is 2020
-On Netflix USA has the largest number of contents. And most of the countries preferred to produce movies more than TV shows.
-Most of the movies are belonging to 3 categories
-TOP 3 content categories are International movies , dramas , comedies.
-In text analysis (NLP) I used stop words, removed punctuations , stemming & TF-IDF vectorizer and other functions of NLP.
-Applied different clustering models like Kmeans, hierarchical, Agglomerative clustering, DBSCAN on data we got the best cluster arrangements.
-By applying different clustering algorithms to our dataset .we get the optimal number of cluster is equal to 3
+Conclusion
+
