@@ -1,5 +1,6 @@
 # Netflix_Movies_And_Tv_Shows_Clustering
-Technical Documentation
+                                                              Technical Documentation
+
 ![smartphone_netflix_red_background_hd_netflix-1600x900](https://user-images.githubusercontent.com/90696788/232040265-173a8e6e-9092-4cf4-ad7a-661ae8c4a66f.jpg)
 
 
@@ -25,7 +26,8 @@ Conduct Exploratory Data Analysis.
 Try understanding what type content is available in different countries.
 Check if Netflix is increasingly focusing on TV rather than movies in recent years.
 Clustering similar content by matching text-based features.
-#Methods used:
+
+Methods used:
 
 Descriptive Statistics.
 
@@ -69,7 +71,7 @@ listed_in : Generes
 
 description: The Summary description
 
-#Project Work flow:
+Project Work flow:
 
 Importing Libraries
 
